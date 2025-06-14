@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.borderShadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.02), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.banner {
+  text-align: center;
+  padding: 2rem;
+}
+.banner p {
+  font-size: 3rem;
+}
+.button-block {
+  display: block;
+  width: 100%;
+}

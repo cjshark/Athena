@@ -1,0 +1,44 @@
+#navbar {
+  margin-bottom: 2%;
+}
+#navbar a {
+  font-weight: 600;
+}
+
+html {
+  height: 100%;
+}
+.login {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.form-signin {
+  max-width: 500px;
+  padding: 20px;
+  margin: auto;
+}
+.form-signin .form-floating:focus-within {
+  z-index: 1;
+}
+.form-signin input[type="email"] {
+  margin-bottom: 10px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.form-floating {
+  margin-bottom: 15px;
+}
+.checkbox {
+  margin-bottom: 15px;
+}
+.btn {
+  margin-bottom: 10px;
+}

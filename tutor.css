@@ -1,0 +1,90 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.borderShadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.02), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+p {
+  margin-bottom: 0;
+}
+.padding1 {
+  padding: 1rem;
+}
+.name {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+#navbar {
+  margin-bottom: 3%;
+}
+.profile {
+  padding: 1em;
+}
+.profileInfo {
+  margin-top: 2rem;
+}
+.profileHeader {
+  font-size: 2rem;
+}
+.profileNotes {
+  border: solid;
+  border-width: thin;
+}
+.dashboardHeader {
+  display: flex;
+  border-bottom: solid;
+  border-width: thin;
+  padding: rem;
+}
+.dashboardHeader p {
+  font-size: 1.5rem;
+}
+.dashboardHeader button {
+  margin-inline-start: auto;
+}
+#stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+
+.statbox {
+  width: 30%;
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+  background-color: #4caf50;
+}
+.statvalue {
+  text-align: center;
+  font-weight: bold;
+  border-top: solid;
+  border-width: thin;
+  padding: 1rem;
+}
+
+.studentPHeader {
+  padding: 1rem;
+  border-bottom: solid;
+  border-width: thin;
+}
+.studentButton {
+  display: block;
+  margin: 0.5rem 0;
+  width: 100%;
+}
+.studentSched p {
+  font-style: italic;
+  font-size: 0.8rem;
+}
+.footer {
+  margin-top: 5rem;
+}
